@@ -1,0 +1,21 @@
+{
+  "name": "agile-2019",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4ny/agile-2019.git"
+  },
+  "author": "Jan Kanajlo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k4ny/agile-2019/issues"
+  },
+  "homepage": "https://github.com/k4ny/agile-2019#readme",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  },
+  "dependencies": {
+    "mdx-deck": "^3.0.13"
+  }
+}
